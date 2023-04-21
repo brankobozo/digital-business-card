@@ -14,8 +14,8 @@ Solution to the Digital Business Card solo project on Scrimba
 
 ## Links
 
-<!-- - [Code](https://github.com/brankobozo/age-calculator-app)
-- [live](https://brankobozo.github.io/age-calculator-app/) -->
+- [Code](https://github.com/brankobozo/digital-business-card)
+- [live](https://digi-bus-card.netlify.app/)
 
 ## Tools
 
@@ -25,8 +25,7 @@ Solution to the Digital Business Card solo project on Scrimba
 
 ## Screenshots
 
-<!-- ![picture alt](images/screenshots/mobile.png "Age calculator app mobile screenshot")
-![picture alt](images/screenshots/mobile-display.png "Age calculator app mobile display screenshot") -->
+![picture alt](src/img/screenshot.png "Digital business card")
 
 ## Available Scripts
 
