@@ -3,9 +3,8 @@ export default function About() {
     <section className="card__section">
       <h3 className="card__title">About</h3>
       <p className="card__text">
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        Fascinated by web programming, e.g. developing apps and building
+        websites. Super highly motivated to work in that field.
       </p>
     </section>
   );

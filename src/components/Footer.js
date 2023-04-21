@@ -9,31 +9,25 @@ export default function Footer() {
     <footer className="card__footer">
       <ul className="social__list">
         <li className="social__item">
-          <a href="#">
-            <img src={tw} alt="twitter logo" />
+          <a href="https://sr-rs.facebook.com/branko.bozovic.35">
+            <img src={fb} alt="fb logo" />
           </a>
         </li>
 
         <li className="social__item">
           <a href="#">
-            <img src={fb} alt="twitter logo" />
+            <img src={ins} alt="instagram logo" />
           </a>
         </li>
 
         <li className="social__item">
-          <a href="#">
-            <img src={ins} alt="twitter logo" />
+          <a href="http://www.linkedin.com/in/brankoboz">
+            <img src={lin} alt="linkedin logo" />
           </a>
         </li>
 
         <li className="social__item">
-          <a href="#">
-            <img src={lin} alt="twitter logo" />
-          </a>
-        </li>
-
-        <li className="social__item">
-          <a href="#">
+          <a href="https://github.com/brankobozo">
             <img src={gh} alt="twitter logo" />
           </a>
         </li>

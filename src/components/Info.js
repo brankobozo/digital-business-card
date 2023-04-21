@@ -10,11 +10,15 @@ export default function Info() {
         className="card__avatar"
       />
       <div className="card__cred">
-        <h1 className="card__name">Laura Smith</h1>
-        <h2 className="card__job">Frontend Developer</h2>
-        <p className="card__site">laurasmith.website</p>
-
-        <a href="#" className="card__btn">
+        <h1 className="card__name">Branko Bozovic</h1>
+        <h2 className="card__job">Junior Frontend Developer</h2>
+        <a
+          href="https://mutko.github.io/portfolio-website/#"
+          className="card__site"
+        >
+          brankobozo.website
+        </a>
+        <a href="bozobranko@gmail.com" className="card__btn">
           <img src={mail} alt="email logo" />
           <span>Email</span>
         </a>
